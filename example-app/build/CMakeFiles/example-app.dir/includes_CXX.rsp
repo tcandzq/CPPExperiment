@@ -1,0 +1,1 @@
+-isystem D:/tool/working/C++Configuration/libtorch-win-shared-with-deps-1.4.0/libtorch/include -isystem D:/tool/working/C++Configuration/libtorch-win-shared-with-deps-1.4.0/libtorch/include/torch/csrc/api/include 

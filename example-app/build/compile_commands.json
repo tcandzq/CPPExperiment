@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ExperimentalProject/example-app/build",
+  "command": "D:/toolUnzip/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/x86_64-w64-mingw32-g++.exe  -DAT_PARALLEL_OPENMP=1 @CMakeFiles/example-app.dir/includes_CXX.rsp  -D_GLIBCXX_USE_CXX11_ABI= -g   -D_GLIBCXX_USE_CXX11_ABI= -std=gnu++11 -o CMakeFiles/example-app.dir/example-app.cpp.obj -c D:/ExperimentalProject/example-app/example-app.cpp",
+  "file": "D:/ExperimentalProject/example-app/example-app.cpp"
+}
+]
