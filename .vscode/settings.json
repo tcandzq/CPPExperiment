@@ -39,6 +39,13 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "functional": "cpp",
+        "condition_variable": "cpp",
+        "thread": "cpp",
+        "ctime": "cpp",
+        "iterator": "cpp",
+        "ratio": "cpp",
+        "mutex": "cpp"
     }
 }
